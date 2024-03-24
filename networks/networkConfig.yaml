@@ -5,9 +5,9 @@ caliper:
   blockchain: fabric
 
 channels:
-  - channelName: mychannel
+  - channelName: loveme
     contracts:
-    - id: basic
+    - id: loveme
 
 organizations:
   - mspid: Org1MSP
